@@ -1,0 +1,37 @@
+2023/10/17-15:46:30.710 a807 Reusing MANIFEST /Users/ialoandreoli/Projetos/PYTHON/whatsApp/listameuscontatos/tokens/test/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/17-15:46:30.710 a807 Recovering log #4664
+2023/10/17-15:46:30.720 a807 Reusing old log /Users/ialoandreoli/Projetos/PYTHON/whatsApp/listameuscontatos/tokens/test/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/004664.log 
+2023/10/17-15:46:32.405 a303 Level-0 table #4676: started
+2023/10/17-15:46:32.419 a303 Level-0 table #4676: 987401 bytes OK
+2023/10/17-15:46:32.428 a303 Delete type=0 #4664
+2023/10/17-15:46:32.430 a303 Compacting 1@1 + 8@2 files
+2023/10/17-15:46:32.463 a303 Generated table #4677@1: 65571 keys, 2243808 bytes
+2023/10/17-15:46:32.485 a303 Generated table #4678@1: 16960 keys, 2189792 bytes
+2023/10/17-15:46:32.500 a303 Generated table #4679@1: 3059 keys, 2152525 bytes
+2023/10/17-15:46:32.522 a303 Generated table #4680@1: 15573 keys, 2181781 bytes
+2023/10/17-15:46:32.547 a303 Generated table #4681@1: 24957 keys, 2209411 bytes
+2023/10/17-15:46:32.572 a303 Generated table #4682@1: 46948 keys, 2180856 bytes
+2023/10/17-15:46:32.604 a303 Generated table #4683@1: 95860 keys, 2246667 bytes
+2023/10/17-15:46:32.633 a303 Generated table #4684@1: 81180 keys, 1902099 bytes
+2023/10/17-15:46:32.633 a303 Compacted 1@1 + 8@2 files => 17306939 bytes
+2023/10/17-15:46:32.639 a303 compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/10/17-15:46:32.640 a303 Delete type=2 #4676
+2023/10/17-15:46:32.640 a303 Delete type=2 #4671
+2023/10/17-15:46:32.640 a303 Delete type=2 #4670
+2023/10/17-15:46:32.640 a303 Delete type=2 #4666
+2023/10/17-15:46:32.640 a303 Delete type=2 #4672
+2023/10/17-15:46:32.640 a303 Delete type=2 #4673
+2023/10/17-15:46:32.640 a303 Delete type=2 #4667
+2023/10/17-15:46:32.640 a303 Delete type=2 #4669
+2023/10/17-15:46:32.640 a303 Delete type=2 #4668
+2023/10/17-15:46:32.779 a303 Level-0 table #4686: started
+2023/10/17-15:46:32.793 a303 Level-0 table #4686: 1024412 bytes OK
+2023/10/17-15:46:32.800 a303 Delete type=0 #4675
+2023/10/17-15:46:32.801 a303 Compacting 1@1 + 2@2 files
+2023/10/17-15:46:32.831 a303 Generated table #4687@1: 65109 keys, 2246937 bytes
+2023/10/17-15:46:32.850 a303 Generated table #4688@1: 15793 keys, 2023949 bytes
+2023/10/17-15:46:32.850 a303 Compacted 1@1 + 2@2 files => 4270886 bytes
+2023/10/17-15:46:32.857 a303 compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/10/17-15:46:32.857 a303 Delete type=2 #4677
+2023/10/17-15:46:32.857 a303 Delete type=2 #4678
+2023/10/17-15:46:32.857 a303 Delete type=2 #4686

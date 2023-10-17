@@ -1,0 +1,29 @@
+2023/10/17-15:43:44.835 a807 Reusing MANIFEST /Users/ialoandreoli/Projetos/PYTHON/whatsApp/listameuscontatos/tokens/test/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/17-15:43:44.836 a807 Recovering log #4659
+2023/10/17-15:43:44.837 a807 Reusing old log /Users/ialoandreoli/Projetos/PYTHON/whatsApp/listameuscontatos/tokens/test/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/004659.log 
+2023/10/17-15:43:44.837 a807 Delete type=2 #4660
+2023/10/17-15:43:44.837 a807 Delete type=2 #4651
+2023/10/17-15:43:44.837 a807 Delete type=2 #4652
+2023/10/17-15:43:46.611 8403 Level-0 table #4665: started
+2023/10/17-15:43:46.627 8403 Level-0 table #4665: 997826 bytes OK
+2023/10/17-15:43:46.638 8403 Delete type=0 #4659
+2023/10/17-15:43:46.641 8403 Compacting 1@1 + 8@2 files
+2023/10/17-15:43:46.672 8403 Generated table #4666@1: 66140 keys, 2242583 bytes
+2023/10/17-15:43:46.696 8403 Generated table #4667@1: 17567 keys, 2193070 bytes
+2023/10/17-15:43:46.710 8403 Generated table #4668@1: 3079 keys, 2151273 bytes
+2023/10/17-15:43:46.729 8403 Generated table #4669@1: 12050 keys, 2167032 bytes
+2023/10/17-15:43:46.759 8403 Generated table #4670@1: 27747 keys, 2226360 bytes
+2023/10/17-15:43:46.782 8403 Generated table #4671@1: 36215 keys, 2165646 bytes
+2023/10/17-15:43:46.818 8403 Generated table #4672@1: 95723 keys, 2244677 bytes
+2023/10/17-15:43:46.852 8403 Generated table #4673@1: 93235 keys, 2186437 bytes
+2023/10/17-15:43:46.852 8403 Compacted 1@1 + 8@2 files => 17577078 bytes
+2023/10/17-15:43:46.858 8403 compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/10/17-15:43:46.859 8403 Delete type=2 #4662
+2023/10/17-15:43:46.859 8403 Delete type=2 #4661
+2023/10/17-15:43:46.859 8403 Delete type=2 #4665
+2023/10/17-15:43:46.859 8403 Delete type=2 #4658
+2023/10/17-15:43:46.859 8403 Delete type=2 #4656
+2023/10/17-15:43:46.859 8403 Delete type=2 #4657
+2023/10/17-15:43:46.859 8403 Delete type=2 #4655
+2023/10/17-15:43:46.859 8403 Delete type=2 #4654
+2023/10/17-15:43:46.859 8403 Delete type=2 #4653
